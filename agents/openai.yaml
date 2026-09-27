@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 264"
+  short_description: "手稿涂鸦：上半保留原照，下半收成低完成度的天真线稿和私人速写"
+  default_prompt: "Use $xxd-panel-264 to transform my photograph following the complete canonical source brief."
