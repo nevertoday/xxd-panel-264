@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-264
-description: "Create XXD Panel 264 raster artwork: a faithful photograph paired with a raw sketchbook doodle of low finish, naïve line and high emotional density. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-264 or asks for this 手稿涂鸦 style."
+description: "XXD Panel 264｜Sketchbook Doodle: turns a photo into a distilled visual memory rather than a hand-drawn copy — a low-finish, emotionally dense naive line drawing with lo-fi doodle and raw sketchbook energy, childlike observation, loose perspective and imperfect proportions, the subject small, simplified or partly missing, coloured pencil, wax pastel, graphite and dry-brush texture on textured paper with wobbly, broken, re-corrected lines, bright clear colours from the photo (sky blue, lake teal, fresh green, warm yellow, coral orange, peach pink) over plenty of warm white, and a few small diary-like words in a slightly unsteady hand. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-264 or asks for naive doodle, lo-fi sketchbook or childlike line drawing from a photo."
 ---
 
 # XXD Panel 264

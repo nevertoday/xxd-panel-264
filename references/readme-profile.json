@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 264｜Sketchbook Doodle: turns a photo into a distilled visual memory rather than a hand-drawn copy — a low-finish, emotionally dense naive line drawing with lo-fi doodle and raw sketchbook energy, childlike observation, loose perspective and imperfect proportions, the subject small, simplified or partly missing, coloured pencil, wax pastel, graphite and dry-brush texture on textured paper with wobbly, broken, re-corrected lines, bright clear colours from the photo (sky blue, lake teal, fresh green, warm yellow, coral orange, peach pink) over plenty of warm white, and a few small diary-like words in a slightly unsteady hand. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-264 or asks for naive doodle, lo-fi sketchbook or childlike line drawing from a photo.",
+  "short_description": "手稿涂鸦：把照片主体收成低完成度的天真线稿，像私人速写本里的一页",
+  "zh-CN": {
+    "name": "手稿涂鸦",
+    "tagline": "把照片收成私人速写本里的一页天真线稿：画得不完整，但情绪很满。",
+    "look": "这不是照片的手绘版，而是一段被提炼过的视觉记忆：主体可以缩小、简化、弱化，甚至缺掉一部分，背景几乎全退掉。线稿是天真的、低完成度的，透视不准、比例不完美，像儿童画那样观察；线条松，有抖动、断裂和重复修正。用彩铅、蜡笔、铅笔和干刷画在有纹理的纸上，看得见纸纤维和蜡笔颗粒。颜色比原照更亮更清：天空蓝、湖水青、嫩绿、暖黄、珊瑚橙、桃粉，大片暖白纸面，一点暖橙或金黄像阳光。旁边有几个小字，像日记旁白，手写感略不稳。",
+    "traits": ["手稿涂鸦", "低完成度", "天真线稿", "情绪密度", "私人速写", "明亮清透"],
+    "good": [
+      "有动作或关系的日常瞬间：牵手的两个人、趴着睡觉的狗、晒太阳的猫",
+      "简单好玩的对象：一个冰淇淋、一盆植物、一辆小三轮车、一只鸽子",
+      "想做成私人日记、独立绘本或轻松幽默配图的照片"
+    ],
+    "poor": [
+      "需要完整细节、准确比例或干净线稿的用途",
+      "想要精致商业插画、卡通 IP 或电商插画效果的需求",
+      "想要灰暗做旧、暗褐复古色调的效果"
+    ]
+  },
+  "en": {
+    "name": "Sketchbook Doodle",
+    "tagline": "Turns your photo into a naïve line drawing on a private sketchbook page: unfinished, but full of feeling.",
+    "look": "This is not a hand-drawn copy of the photo but a distilled visual memory: the subject may be shrunk, simplified, faded or even partly missing, and the background almost entirely falls away. The line work is naïve and low-finish, with loose perspective and imperfect proportions, observed the way a child might; lines are loose, with wobbles, breaks and repeated corrections. It is drawn in coloured pencil, wax pastel, graphite and dry brush on textured paper, with paper fibres and crayon grain visible. Colours are brighter and clearer than the original: sky blue, lake teal, fresh green, warm yellow, coral orange, peach pink, with plenty of warm white paper and a touch of warm orange or gold like sunlight. A few small words sit nearby like a diary aside, in a slightly unsteady hand.",
+    "traits": ["Sketchbook doodle", "Low finish", "Naïve line drawing", "Emotional density", "Private sketch", "Bright and clear"],
+    "good": [
+      "Everyday moments with action or a relationship: two people holding hands, a dog asleep on its belly, a cat in the sun",
+      "Simple, playful subjects: an ice cream, a potted plant, a little tricycle, a pigeon",
+      "Photos you want for a private diary, small-press picture book or light, funny illustration"
+    ],
+    "poor": [
+      "Uses that need complete detail, accurate proportions or clean line art",
+      "Requests for polished commercial illustration, cartoon mascots or e-commerce artwork",
+      "Wanting a dull aged look or dark sepia vintage tones"
+    ]
+  },
+  "ja": {
+    "name": "手稿の落書き",
+    "tagline": "写真を、個人のスケッチブックの一ページに描いた素朴な線画にします。描きかけでも、気持ちはたっぷり。",
+    "look": "写真を手描きで写したものではなく、絞り込んだ視覚の記憶です。主役は小さくしても、簡略化しても、薄くしても、一部が欠けてもよく、背景はほとんど消えます。線画は素朴で完成度が低く、遠近は不正確、比率も不完全で、子どもの絵のような見方をします。線はゆるく、揺れ、途切れ、何度も描き直されます。色鉛筆、クレヨン、鉛筆、ドライブラシで目の粗い紙に描き、紙の繊維やクレヨンの粒子が見えます。色は元の写真より明るく澄んでいます：空色、湖の青緑、若葉の緑、暖かな黄色、コーラルオレンジ、ピーチピンク。温かな白い紙をたっぷり残し、日差しのような暖かいオレンジや金色をひと差し。そばには日記のつぶやきのような小さな文字を、少し不安定な手書きで添えます。",
+    "traits": ["手稿の落書き", "低い完成度", "素朴な線画", "気持ちの密度", "個人のスケッチ", "明るく澄んだ色"],
+    "good": [
+      "動きや関係のある日常の瞬間：手をつなぐ二人、腹ばいで眠る犬、日なたぼっこの猫",
+      "シンプルで楽しい主役：アイスクリーム、植木鉢、小さな三輪車、ハト",
+      "個人の日記、小さな出版の絵本、肩の力の抜けたユーモラスな挿絵にしたい写真"
+    ],
+    "poor": [
+      "完全な細部、正確な比率、きれいな線画が必要な用途",
+      "作り込んだ商業イラスト、キャラクター IP、EC 向けイラストを求める場合",
+      "くすんだ古びた感じや、暗いセピアのレトロな色調を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "원고 낙서",
+    "tagline": "사진을 개인 스케치북 한 페이지의 천진한 선화로 바꿉니다. 덜 그렸지만 감정은 가득합니다.",
+    "look": "사진을 손으로 베낀 그림이 아니라 걸러 낸 시각적 기억입니다. 주인공은 작아지거나 단순해지거나 흐려지거나 일부가 빠져도 되고, 배경은 거의 다 물러납니다. 선화는 천진하고 완성도가 낮으며, 원근은 맞지 않고 비례도 완벽하지 않아 아이의 그림처럼 바라봅니다. 선은 느슨하고 떨리고 끊기며 여러 번 고쳐 그어집니다. 색연필, 크레용, 연필, 마른 붓으로 결이 있는 종이에 그려 종이 섬유와 크레용 입자가 보입니다. 색은 원본보다 밝고 맑습니다: 하늘색, 호수 같은 청록, 연두, 따뜻한 노랑, 코랄 오렌지, 복숭아 분홍. 따뜻한 흰 종이를 넉넉히 남기고 햇살처럼 따뜻한 주황이나 금빛을 살짝 얹습니다. 옆에는 일기 속 혼잣말 같은 작은 글씨가 조금 흔들리는 손글씨로 놓입니다.",
+    "traits": ["원고 낙서", "낮은 완성도", "천진한 선화", "감정의 밀도", "개인 스케치", "밝고 맑은 색"],
+    "good": [
+      "동작이나 관계가 있는 일상의 순간: 손잡은 두 사람, 엎드려 자는 강아지, 볕 쬐는 고양이",
+      "단순하고 재미있는 대상: 아이스크림, 화분, 작은 세발자전거, 비둘기",
+      "개인 일기, 독립 그림책, 가볍고 유머러스한 삽화로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "완전한 세부, 정확한 비례, 깔끔한 선화가 필요한 용도",
+      "정교한 상업 일러스트, 캐릭터 IP, 쇼핑몰용 일러스트를 원하는 경우",
+      "칙칙하게 낡은 느낌이나 어두운 세피아 복고 색감을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "خربشة الكرّاسة",
+    "tagline": "يحوّل صورتك إلى رسم خطي فطري على صفحة من كرّاسة رسم خاصة: غير مكتمل لكنه ممتلئ بالشعور.",
+    "look": "ليست نسخة مرسومة باليد من الصورة، بل ذاكرة بصرية مصفّاة: قد يصغُر العنصر أو يُبسَّط أو يخفت أو يغيب جزء منه، وتكاد الخلفية تختفي كلها. الرسم الخطي فطري قليل الإتقان، بمنظور غير دقيق ونِسب غير كاملة، يُنظر فيه إلى الأشياء كما ينظر طفل؛ والخطوط مرتخية فيها ارتعاش وانقطاع وتصحيحات متكررة. يُرسم بالأقلام الملوّنة والباستيل الشمعي وقلم الرصاص والفرشاة الجافة على ورق خشن الملمس، فتظهر ألياف الورق وحبيبات الطباشير. الألوان أكثر إشراقاً وصفاءً من الأصل: أزرق السماء، أزرق البحيرة المخضر، أخضر غضّ، أصفر دافئ، برتقالي مرجاني، وردي خوخي، مع مساحات كثيرة من الورق الأبيض الدافئ ولمسة برتقالية دافئة أو ذهبية كضوء الشمس. وبجانبه كلمات صغيرة قليلة كتعليق في يوميات، بخط يد غير ثابت قليلاً.",
+    "traits": ["خربشة الكرّاسة", "إتقان منخفض", "رسم خطي فطري", "كثافة شعورية", "رسم شخصي سريع", "ألوان مشرقة صافية"],
+    "good": [
+      "لحظات يومية فيها حركة أو علاقة: شخصان يتشابكان بالأيدي، كلب نائم على بطنه، قطة في الشمس",
+      "عناصر بسيطة مرحة: مثلّجات، أصيص نبات، دراجة صغيرة بثلاث عجلات، حمامة",
+      "صور تريدها ليوميات خاصة أو كتاب مصوّر مستقل أو رسم خفيف طريف"
+    ],
+    "poor": [
+      "استخدامات تحتاج إلى تفاصيل كاملة أو نِسب دقيقة أو رسم خطي نظيف",
+      "طلب رسم تجاري مصقول أو شخصيات تجارية أو رسوم للمتاجر الإلكترونية",
+      "الرغبة في مظهر قديم باهت أو درجات بنية داكنة قديمة الطراز"
+    ]
+  }
+}
